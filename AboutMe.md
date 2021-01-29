@@ -8,8 +8,12 @@ I am from India.
 
 ### Visitors Record
 
-:Location :hours:  Amount:
+| :Location  | :Hours:   | Amount:  |   
+|---         |---        |---       |
+| :##### NY  |  :3hrs:   |  100$:   |   
+| :##### NJ  |  :3hrs:   |  100$:   |   
+| :##### LA  |  :3hrs:   |  100$:  |   
+
+
  
-:##### NY :3hrs:    100$:
-:##### NJ :3hrs:    100$:
-:##### LA :3 hrs:   100$: 
+ 
