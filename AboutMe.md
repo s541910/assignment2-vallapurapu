@@ -10,10 +10,10 @@ I am from India.
  
 | Location  |      Hours    |  Amount |
 |:----------|:-------------:|--------:|
-|  ##### NY |   3hrs        |  100$   |   
-|  ##### NJ |   3hrs        |  100$   |   
-|  ##### LA |   3hrs        |  100$   |
-| ** florida|    3hrs        | 100$    |
+|   NY |   3hrs        |  100$   |   
+|   NJ |   3hrs        |  100$   |   
+|  LA |   3hrs        |  100$   |
+| florida|    3hrs        | 100$    |
 
  
  
