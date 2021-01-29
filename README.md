@@ -24,7 +24,7 @@ I love **Biryani** because i am from **Hyderabad**
     * Beans.
  * Come home.
 
- Lets go to AboutMe <C:\Users\s541910\Desktop\webapps-repos\assignment2-vallapurapu\AboutMe.md>
+ Lets go to AboutMe <https://github.com/s541910/assignment2-vallapurapu/blob/main/AboutMe.md>
 
 
 
