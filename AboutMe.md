@@ -21,7 +21,7 @@ I am from India.
 ### Quotations
 
 > Keep your friends close, but your enemies closer.	
-                                    * ~Michael Corleone*
+                                    *~Michael Corleone*
 
 > Knowledge is power.
               *~Sir Francis Bacon*
