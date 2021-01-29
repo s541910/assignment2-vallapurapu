@@ -2,4 +2,4 @@
 # Ramu Vallapurapu
 ###### Biryani
 
-I love **Biryani ** because i am from ** Hyderabad **
+I love **Biryani** because i am from **Hyderabad**
