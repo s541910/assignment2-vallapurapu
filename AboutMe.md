@@ -15,5 +15,13 @@ I am from India.
 |  LA |   3hrs        |  100$   |
 | florida|    3hrs        | 100$    |
 
+
+---
+
+### Quotations
+
+> Keep your friends close, but your enemies closer.	*Michael Corleone*
+
+> Knowledge is power.	*Sir Francis Bacon*
  
  
