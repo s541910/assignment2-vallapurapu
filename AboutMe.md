@@ -1,29 +1,11 @@
 ### Ramu Vallapurapu
 
-I am from India.
+Having 2 Years and 5 months  of Experience in IT Industry in Developing.JAVA applications.Hands on implementation of Web Based Applications using JAVA, Spring Boot, Rest Services, Tomcat.Good knowledge in  MySQL.
 
 ![Jaguar](images/jaguar.jpg)
 
 ---
 
-### Visitors Record
- 
-| Location  |      Hours    |  Amount |
-|:----------|:-------------:|--------:|
-|   NY |   3hrs        |  100$   |   
-|   NJ |   3hrs        |  100$   |   
-|  LA |   3hrs        |  100$   |
-| florida|    3hrs        | 100$    |
 
-
----
-
-### Quotations
-
-> Keep your friends close, but your enemies closer.	
-                                    *~Michael Corleone*
-
-> Knowledge is power.
-              *~Sir Francis Bacon*
  
  
