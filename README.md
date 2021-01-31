@@ -5,7 +5,10 @@
 I love **Biryani** because i am from **Hyderabad**
 
 ---
-### Order List
+### Order List 
+
+##### Groceries List 
+
  1. Go to the store
  2. Buy Food.
      1. vegetables.
@@ -18,6 +21,8 @@ I love **Biryani** because i am from **Hyderabad**
 
  ### UnOrder List
 
+ ##### Groceries List
+
  * Go to the store.
  * Buy Food.
     * Rice.
@@ -27,6 +32,8 @@ I love **Biryani** because i am from **Hyderabad**
  Wanna know more about me? [About Me](https://github.com/s541910/assignment2-vallapurapu/blob/main/AboutMe.md)
  ---
  ### Visitors Record
+
+ ###### Places to visit in USA
  
 | Location  |      Hours    |  Amount |
 |:----------|:-------------:|--------:|
@@ -51,7 +58,7 @@ I love **Biryani** because i am from **Hyderabad**
 ### Code Fencing
 
 ### BASIC
-> ** BASIC ** (Beginners' All-purpose Symbolic Instruction Code)[1] is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use. The original version was designed by John G. Kemeny and Thomas E. Kurtz and released at Dartmouth College in 1964. They wanted to enable students in fields other than science and mathematics to use computers. At the time, nearly all use of computers required writing custom software, which was something only scientists and mathematicians tended to learn.
+>  BASIC (Beginners' All-purpose Symbolic Instruction Code)[1] is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use. The original version was designed by John G. Kemeny and Thomas E. Kurtz and released at Dartmouth College in 1964. They wanted to enable students in fields other than science and mathematics to use computers. At the time, nearly all use of computers required writing custom software, which was something only scientists and mathematicians tended to learn.
 
 [Learn more](https://en.wikipedia.org/wiki/BASIC)
 
@@ -74,11 +81,9 @@ FOR I = 1 TO N
 
  ## Images
 
- ![Man](images/man.PNG)
+ ![Man](images/man.PNG)  ![Jaguar](images/swan.PNG)
 
- ![Jaguar](images/swan.PNG)
-
- ![Jaguar](images/wings.PNG)
+  ![Jaguar](images/wings.PNG)
 
 
 
