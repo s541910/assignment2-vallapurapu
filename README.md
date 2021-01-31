@@ -81,9 +81,10 @@ FOR I = 1 TO N
 
  ## Images
 
- ![Man](images/man.PNG)  ![Jaguar](images/swan.PNG)
+ * ![Man](images/man.PNG)  
+ * ![Jaguar](images/swan.PNG)
 
-  ![Jaguar](images/wings.PNG)
+  * ![Jaguar](images/wings.PNG)
 
 
 
