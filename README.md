@@ -53,7 +53,24 @@ I love **Biryani** because i am from **Hyderabad**
 ### BASIC
 > ** BASIC ** (Beginners' All-purpose Symbolic Instruction Code)[1] is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use. The original version was designed by John G. Kemeny and Thomas E. Kurtz and released at Dartmouth College in 1964. They wanted to enable students in fields other than science and mathematics to use computers. At the time, nearly all use of computers required writing custom software, which was something only scientists and mathematicians tended to learn.
 
- Basic [Click here](https://en.wikipedia.org/wiki/BASIC)
+[Learn more](https://en.wikipedia.org/wiki/BASIC)
+
+~~~ INPUT "What is your name: "; U$
+ PRINT "Hello "; U$
+ INPUT "How many stars do you want: "; N
+ S$ = ""
+FOR I = 1 TO N
+ S$ = S$ + "*"
+ NEXT I
+ PRINT S$
+ INPUT "Do you want more stars? "; A$
+ IF LEN(A$) = 0 THEN GOTO 90
+ A$ = LEFT$(A$, 1)
+ IF A$ = "Y" OR A$ = "y" THEN GOTO 30
+ PRINT "Goodbye "; U$
+ END
+ ~~~
+ [Code Source](https://en.wikipedia.org/wiki/BASIC)
 
 
 
