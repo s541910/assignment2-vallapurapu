@@ -24,8 +24,7 @@ I love **Biryani** because i am from **Hyderabad**
     * Beans.
  * Come home.
 
- Lets go to AboutMe <https://github.com/s541910/assignment2-vallapurapu/blob/main/AboutMe.md>
-
+ Wanna know more about me? [Click here](https://github.com/s541910/assignment2-vallapurapu/blob/main/AboutMe.md)
  ---
  ### Visitors Record
  
@@ -53,6 +52,9 @@ I love **Biryani** because i am from **Hyderabad**
 
 ### BASIC
 > ** BASIC ** (Beginners' All-purpose Symbolic Instruction Code)[1] is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use. The original version was designed by John G. Kemeny and Thomas E. Kurtz and released at Dartmouth College in 1964. They wanted to enable students in fields other than science and mathematics to use computers. At the time, nearly all use of computers required writing custom software, which was something only scientists and mathematicians tended to learn.
+
+ Basic [Click here](https://en.wikipedia.org/wiki/BASIC)
+
 
 
 
