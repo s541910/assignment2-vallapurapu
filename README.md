@@ -26,5 +26,28 @@ I love **Biryani** because i am from **Hyderabad**
 
  Lets go to AboutMe <https://github.com/s541910/assignment2-vallapurapu/blob/main/AboutMe.md>
 
+ ---
+ ### Visitors Record
+ 
+| Location  |      Hours    |  Amount |
+|:----------|:-------------:|--------:|
+|   NY |   3hrs        |  100$   |   
+|   NJ |   3hrs        |  100$   |   
+|  LA |   3hrs        |  100$   |
+| florida|    3hrs        | 100$    |
+
+
+---
+
+### Quotations
+
+> Keep your friends close, but your enemies closer.	
+                                    *~Michael Corleone*
+
+> Knowledge is power.
+              *~Sir Francis Bacon*
+
+ ---             
+
 
 
