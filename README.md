@@ -72,6 +72,14 @@ FOR I = 1 TO N
  ~~~
  [Code Source](https://en.wikipedia.org/wiki/BASIC)
 
+ ## Images
+
+ ![Man](images/man.PNG)
+
+ ![Jaguar](images/swan.PNG)
+
+ ![Jaguar](images/wings.PNG)
+
 
 
 
